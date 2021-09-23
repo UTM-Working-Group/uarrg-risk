@@ -1,0 +1,5 @@
+site_name: UA Risk Research Group
+nav:
+  - Home: index.md
+  - Working Drafts: working-drafts/index.md
+theme: pulse
