@@ -4,6 +4,7 @@ This repository is for risk analysis for the UA Risk Research Working Group.
 
 ## Requirements
 
+```
 sudo add-apt-repository ppa:ubuntugis/ppa
 sudo apt-get install gdal-bin libgdal-dev
 ```
@@ -33,4 +34,3 @@ python -m unittest tests.population.test_gpw
 See references:
 
 * [GDAL and GFS Wind speed](https://geoexamples.blogspot.com/2012/12/raster-calculations-with-gdal-and-numpy.html)
-
