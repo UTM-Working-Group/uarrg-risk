@@ -1,3 +1,4 @@
+fiona
 # geotiff==0.2.3
 # imagecodecs==2020.5.30
 # gdal
